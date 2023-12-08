@@ -11,8 +11,9 @@ metadata
 model.py
 SubmissionModel*
 model*
-*data*
 finger*
 saved_model*
 TransferLearningModel*
 FineTuningModel*
+*.npy
+*.zip
