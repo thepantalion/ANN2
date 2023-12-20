@@ -17,3 +17,6 @@ TransferLearningModel*
 FineTuningModel*
 *.npy
 *.zip
+model*
+models/
+pokusaj_marinov/
